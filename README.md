@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 M Faizan Qayyum</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Open+Source+Contributor;RFID+Integration+Expert;Linux+Power+User;Dark+Web+Surfer+%F0%9F%94%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Open+Source+Contributor;Linux+Power+User" alt="Typing SVG" />
 </p>
 
 ---
